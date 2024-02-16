@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Diego Vigneron and i'm a Computer Science student at the Polytechnic University of Madrid (UPM).
+You can reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/dvignerono)
 
 <!--
 **diegovoo/diegovoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
