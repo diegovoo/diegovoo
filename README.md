@@ -2,7 +2,7 @@
 
 My name is Diego Vigneron and I'm a Computer Science student at the Polytechnic University of Madrid (UPM).
 
-You can reach out to me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/dvignerono)
+You can reach out to me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dvignerono)
 
 ## &#x1f4c8; GitHub Stats
 
