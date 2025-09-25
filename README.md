@@ -4,7 +4,7 @@ My name is Diego Vigneron, and I am a Computer Science student at the Polytechni
 I am passionate about building intelligent systems and solving complex problems with code. My academic journey has given me a strong foundation in a variety of technologies and programming languages. I am actively looking for opportunities to apply my skills in real-world projects.
 
 ## Connect with me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/dvignerono)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dvignerono)
 
 ## &#x1f4c8; GitHub Stats
 
