@@ -1,12 +1,16 @@
 ## Hi there 👋
-My name is Diego Vigneron, and I am a Computer Science student at the Polytechnic University of Madrid (UPM). I am currently pursuing a Master's in Artificial Intelligence, where I am developing my expertise in machine learning, data science, and AI algorithms.
 
-I am passionate about building intelligent systems and solving complex problems with code. My academic journey has given me a strong foundation in a variety of technologies and programming languages. I am actively looking for opportunities to apply my skills in real-world projects.
+My name is **Diego Vigneron**. I completed my **Degree in Computer Science** as well as my **Master's in Artificial Intelligence** at **Universidad Politécnica de Madrid (UPM)**, and I am currently working at **[Prima](https://github.com/primait)** ([prima.it](https://prima.it)).
 
-## Connect with me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dvignerono)
+I am passionate about building intelligent systems and solving complex problems with code.
 
-## &#x1f4c8; GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvignerono)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovoo&show_icons=true&layout=compact&title_color=ffffff&hide=lua)](https://github.com/diegovoo/diegovoo)
-[![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegovoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/diegovoo/diegovoo)
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=diegovoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Diego's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diegovoo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
